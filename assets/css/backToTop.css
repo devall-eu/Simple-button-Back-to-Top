@@ -1,0 +1,21 @@
+#myBtn {
+    display: none;
+    position: fixed;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    line-height: normal;
+    opacity: .9;
+    bottom: 80px;
+    right: 30px;
+    font-size: 12px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#myBtn:hover {
+    opacity: 1;
+}
